@@ -6,7 +6,7 @@
 
 <p> Atualmnente estou estudando as seguintes linguagens</p>
 
-<img width="10" height="1052" alt="JavaScript-logo" src="https://github.com/user-attachments/assets/f6aeb849-29c8-4148-8d11-fb1157ad79fc" />
+<img width="100" height="100" alt="JavaScript-logo" src="https://github.com/user-attachments/assets/f6aeb849-29c8-4148-8d11-fb1157ad79fc" />
 
 
 <!--
