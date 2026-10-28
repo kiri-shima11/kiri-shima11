@@ -4,9 +4,9 @@
 
 <p> atualmente estou estudando e trabalhando em uma emppresa com analista insutrial, não tem haver com a área de tecnologia, quero seguir o meu sonho de ser programador e tentar buscar um trabalho em minha área.</p>
 
-<p> Atualmnente estou estudando as seguintes linguagens</p>
+<p> Atualmente estou estudando as seguintes linguagens</p>
 
-<img width="50" height="50" alt="JavaScript-logo" src="https://github.com/user-attachments/assets/f6aeb849-29c8-4148-8d11-fb1157ad79fc" />
+<img width="25" height="25" alt="JavaScript-logo" src="https://github.com/user-attachments/assets/f6aeb849-29c8-4148-8d11-fb1157ad79fc" />
 
 
 <!--
