@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<h1> Eu sou o Guilherme Luz e tenho 23 anos.</h1>
+
+<p> atualmente estou estudando e trabalhando em uma emppresa com analista insutrial, não tem haver com a área de tecnologia, quero seguir o meu sonho de ser programador e tentar buscar um trabalho em minha área.</p>
+
+<p> Atualmnente estou estudando as seguintes linguagens</p>
+
+<img width="1052" height="1052" alt="JavaScript-logo" src="https://github.com/user-attachments/assets/f6aeb849-29c8-4148-8d11-fb1157ad79fc" />
+
+
 <!--
 **kiri-shima11/kiri-shima11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
